@@ -97,6 +97,6 @@ Latest Xray Core v1.7.3
 
 
 <p align="center">
-  <a><img src="https://img.shields.io/badge/Dicopy%20©-Onyx%20AutoScriptVPN%202023.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
+  <a><img src="" style="max-width:200%;">
     </p>
    </p>
