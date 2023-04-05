@@ -97,6 +97,5 @@ Latest Xray Core v1.7.3
 
 
 <p align="center">
-  <a><img src="" style="max-width:200%;">
     </p>
    </p>
