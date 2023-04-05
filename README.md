@@ -97,6 +97,6 @@ Latest Xray Core v1.7.3
 
 
 <p align="center">
-  <a><img src="https://img.shields.io/badge/CopyRights%20©-MR-King-Store%20AutoScriptVPN%202023.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
+ <h2 align="center">MR-King-Store AutoScript VPN <img src="https://img.shields.io/badge/Version-Beta_10.9-blue.svg"></h2>
     </p>
    </p>
