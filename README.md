@@ -97,6 +97,6 @@ Latest Xray Core v1.7.3
 
 
 <p align="center">
- <h2 align="center"><img src="https://img.shields.io/badge/CopyRight© MR-King-Store-2023-Version-Beta_10.9-blue.svg"></h2>
+<h2 align="center">CopyRights© 2023 MR-King-Store <img src="https://img.shields.io/badge/Version-Beta_10.9-blue.svg"></h2>
     </p>
    </p>
