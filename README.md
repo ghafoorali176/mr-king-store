@@ -1,11 +1,11 @@
 <h2 align="center">
 
-Autoscript SSH XRAYS Websocket Multiport (BETA v0.9)
+Autoscript SSH XRAYS Websocket Multiport (BETA v10.9)
 
 Latest Xray Core v1.7.3
 
 
- <h2 align="center">AutoScript VPN <img src="https://img.shields.io/badge/Version-Beta_0.2-blue.svg"></h2>
+ <h2 align="center">Mr-King-Store AutoScript VPN <img src="https://img.shields.io/badge/Version-Beta_0.2-blue.svg"></h2>
 
 
 <h2 align="center"> Supported Linux Distribution</h2>
