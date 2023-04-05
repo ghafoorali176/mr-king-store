@@ -5,7 +5,7 @@ Autoscript SSH XRAYS Websocket Multiport (BETA v10.9)
 Latest Xray Core v1.7.3
 
 
- <h2 align="center">Mr-King-Store AutoScript VPN <img src="https://img.shields.io/badge/Version-Beta_10.9-blue.svg"></h2>
+ <h2 align="center">MR-King-Store AutoScript VPN <img src="https://img.shields.io/badge/Version-Beta_10.9-blue.svg"></h2>
 
 
 <h2 align="center"> Supported Linux Distribution</h2>
@@ -97,6 +97,6 @@ Latest Xray Core v1.7.3
 
 
 <p align="center">
-  <a><img src="https://img.shields.io/badge/Dicopy%20©-Onyx%20AutoScriptVPN%202023.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
+  <a><img src="https://img.shields.io/badge/CopyRights%20©-MR-King-Store%20AutoScriptVPN%202023.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
     </p>
    </p>
