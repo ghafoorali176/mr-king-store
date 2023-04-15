@@ -47,7 +47,7 @@ Latest Xray Core v1.7.3
 ## ♦️INSTALLATION SCRIPT ( Recommended Ubuntu 20.04 TLS )♦️
 
   ```html
-  <pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/ghafooali176/abc/ipuk/main.sh && chmod +x main.sh && screen -S install ./main.sh</code></pre>
+ apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/ghafooali176/abc/ipuk/main.sh && chmod +x main.sh && screen -S install ./main.sh
 
   ```
 
