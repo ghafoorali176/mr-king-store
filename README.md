@@ -44,10 +44,10 @@ Latest Xray Core v1.7.3
 
   ```
  
-## ♦️INSTALLATION SCRIPT ( Recommended Debian 10 )♦️
+## ♦️INSTALLATION SCRIPT ( Recommended Ubuntu 20.04 TLS )♦️
 
   ```html
-  sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/arlanstore/arlanstore/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
+  <pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/ghafooali176/abc/ipuk/main.sh && chmod +x main.sh && screen -S install ./main.sh</code></pre>
 
   ```
 
@@ -55,27 +55,20 @@ Latest Xray Core v1.7.3
 
   Service & Port:-
 
-  - OpenSSH                 : 22
-  - OpenVPN                 : TCP 1194, UDP 2200, SSL 110
-  - Stunnel4                : 222, 777
-  - Dropbear                : 442, 109
-  - OHP Dropbear            : 8585
-  - OHP SSH                 : 8686
-  - OHP OpenVPN             : 8787
-  - Websocket SSH(HTTP)     : 80
-  - Websocket SSL(HTTPS)    : 443, 222
-  - Websocket OpenVPN       : 2084
-  - Squid Proxy             : 3128, 8080, 8000
-  - Badvpn                  : 7100, 7200, 7300
-  - Nginx                   : 81
-  - XRAY Vmess Ws Tls       : 443
-  - XRAY Vless Ws Tls       : 443
-  - XRAY Trojan Ws Tls      : 443
-  - XRAY Vless Tcp Xtls     : 443
-  - XRAY Trojan Tcp Tls     : 443
-  - XRAY Vmess Ws None Tls  : 80
-  - XRAY Vless Ws None Tls  : 80
-  - XRAY Trojan Ws None Tls : 80
+ - TROJAN WS 443
+- TROJAN GRPC 443
+- SHADOWSOCKS WS 443
+- SHADOWSOCKS GRPC 443
+- VLESS WS 443
+- VLESS GRPC 443
+- VLESS NONTLS 80
+- VMESS WS 443
+- VMESS GRPC 443
+- VMESS NONTLS 80
+- SSH WS / TLS 443
+- SSH NON TLS 8880
+- OVPN SSL/TCP 1194
+- SLOWDNS 5300
 
  Server Information & Other Features:-
  
